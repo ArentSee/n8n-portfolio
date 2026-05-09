@@ -213,7 +213,7 @@ flowchart TD
 
 ## 🔗 Ссылки
 
-- [GitHub: workflow JSON и README](https://github.com/Misha_kopo/n8n-portfolio) *(заполнить когда зальёшь)*
+- [GitHub: workflow JSON и README](https://github.com/Misha_kopo/n8n-portfolio)
 ---
 
 ## Контакты
